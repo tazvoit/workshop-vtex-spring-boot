@@ -1,0 +1,6 @@
+INSERT INTO TBL_BOOKS (nombre, descripcion, autor, fechaPublicacion) VALUES ('La Guerra del Fin del mundo', 'Una novela extremadamente reveladora sobre un episodio verídico en América Latina', 'Mario Vargas Llosa', PARSEDATETIME('03/02/2016', 'DD/MM/YYYY'));
+INSERT INTO TBL_BOOKS (nombre, descripcion, autor, fechaPublicacion) VALUES ('Tu supercerebro', 'Tu supercerebro', ' Kaja Nordengen', PARSEDATETIME('01/10/2018', 'DD/MM/YYYY'));
+INSERT INTO TBL_BOOKS (nombre, descripcion, autor, fechaPublicacion) VALUES ('Genética: Un enfoque conceptual', 'La genética es la base del fascinante proceso de la evolución', 'Benjamin A. Pierce', PARSEDATETIME('27/11/2015', 'DD/MM/YYYY'));
+INSERT INTO TBL_BOOKS (nombre, descripcion, autor, fechaPublicacion) VALUES ('El libro de los negocios', 'Un gran líder empresarial', 'DK', PARSEDATETIME('19/02/2019', 'DD/MM/YYYY'));
+INSERT INTO TBL_BOOKS (nombre, descripcion, autor, fechaPublicacion) VALUES ('Persepolis', 'Persépolis se ha convertido por méritos propios en un clásico de la novela gráfica', 'Marjane Satapri', PARSEDATETIME('01/01/2014', 'DD/MM/YYYY'));
+		

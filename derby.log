@@ -1,0 +1,64 @@
+----------------------------------------------------------------
+Mon Dec 09 16:33:36 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016e-eccb-e6d5-000013364210 
+on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/bursh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 09 16:45:02 CST 2019:
+Shutting down instance a816c00e-016e-eccb-e6d5-000013364210 on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Mon Dec 09 16:45:18 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-016e-eccb-e6d5-000013364210 
+on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/bursh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 09 16:45:26 CST 2019:
+Shutting down instance 176240b2-016e-eccb-e6d5-000013364210 on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Mon Dec 09 16:45:42 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a0f1c156-016e-eccb-e6d5-000013364210 
+on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/bursh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 09 17:13:57 CST 2019:
+Shutting down instance a0f1c156-016e-eccb-e6d5-000013364210 on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+----------------------------------------------------------------
+Mon Dec 09 17:14:13 CST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 44c541fa-016e-eccb-e6d5-000013364210 
+on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/Users/bursh/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_231-b11
+user.dir=/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 09 17:14:19 CST 2019:
+Shutting down instance 44c541fa-016e-eccb-e6d5-000013364210 on database directory memory:/Users/bursh/Documents/workspace-spring-tool-suite-4-4.4.2.RELEASE/my-app/testdb with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
